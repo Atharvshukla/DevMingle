@@ -7,7 +7,7 @@ const Footer = () => {
     <Box pb={3}>
       <Card>
         <Typography variant="subtitle1">
-          Don't forget to share with your friends! ⭐
+          DevMingle is fun with friends so SHARE IT NOW! ⭐
         </Typography>
       </Card>
     </Box>
